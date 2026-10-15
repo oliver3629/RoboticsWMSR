@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+work/
+vendor/
+.DS_Store
+requirements-lock.txt
+submissions/*diagnostic*.py
+outputs/*
+!outputs/comparison.png
+!outputs/comparison.gif
+!outputs/RESULTS.md
