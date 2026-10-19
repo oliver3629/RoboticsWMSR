@@ -12,3 +12,6 @@ outputs/*
 !outputs/01_normal/
 outputs/01_normal/*
 !outputs/01_normal/robotarium_video.mp4
+!outputs/02_attack/
+outputs/02_attack/*
+!outputs/02_attack/robotarium_video.mp4
