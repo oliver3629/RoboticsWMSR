@@ -15,3 +15,6 @@ outputs/01_normal/*
 !outputs/02_attack/
 outputs/02_attack/*
 !outputs/02_attack/robotarium_video.mp4
+!outputs/03_wmsr/
+outputs/03_wmsr/*
+!outputs/03_wmsr/robotarium_video.mp4
