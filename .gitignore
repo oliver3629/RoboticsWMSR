@@ -9,3 +9,6 @@ outputs/*
 !outputs/comparison.png
 !outputs/comparison.gif
 !outputs/RESULTS.md
+!outputs/01_normal/
+outputs/01_normal/*
+!outputs/01_normal/robotarium_video.mp4
