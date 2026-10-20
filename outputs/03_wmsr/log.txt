@@ -1,0 +1,5 @@
+/usr/local/lib/python3.10/dist-packages/matplotlib/projections/__init__.py:63: UserWarning: Unable to import Axes3D. This may be due to multiple versions of Matplotlib being installed (e.g. as a system package and as a pip package). As a result, the 3D projection is not available.
+  warnings.warn("Unable to import Axes3D. This may be due to multiple versions of "
+[INFO] [1792441406.191714047] [robotarium]: Initializing 8 robots to initial conditions...
+[INFO] [1792441433.050538893] [robotarium]: At initial conditions... Starting Experiment
+[INFO] [1792441433.564104171] [robotarium]: Starting Experiment

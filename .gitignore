@@ -12,9 +12,12 @@ outputs/*
 !outputs/01_normal/
 outputs/01_normal/*
 !outputs/01_normal/robotarium_video.mp4
+!outputs/01_normal/log.txt
 !outputs/02_attack/
 outputs/02_attack/*
 !outputs/02_attack/robotarium_video.mp4
+!outputs/02_attack/log.txt
 !outputs/03_wmsr/
 outputs/03_wmsr/*
 !outputs/03_wmsr/robotarium_video.mp4
+!outputs/03_wmsr/log.txt
